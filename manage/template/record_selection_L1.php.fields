@@ -1,0 +1,13 @@
+<?php
+	printTextField("Table name", $rec, "((table))", 40, 80);
+	printTextField("Record description<br>lowercase and singular", $rec, "((recdesc))", 40, 80);
+	printTextField("Sort field<br>Minus table prefix", $rec, "((sortby))", 40, 80);
+
+	printTableSeperator();
+	printTextField("Level 1 Table", $rec, "((L1_table))", 4, 80);
+	printTextField("Level 1 Select id", $rec, "((L1id))", 4, 80);
+
+	printTableSeperator();
+	printTextField("Select Field<br>Minus table prefix", $rec, "((sel_field))", 40, 80);
+	printTextField("Select Field Desc", $rec, "((sel_field_desc))", 40, 80);
+?>

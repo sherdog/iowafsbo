@@ -1,0 +1,8 @@
+
+Paypal login: santa__1186678496_biz@hotmail.com
+Paypal password: l1nuxr00lz
+
+Test Account: 	  	mikesh_1185076365_biz@msn.com  	Jul. 21, 2007 20:52:52 PDT
+API Username: 	  	mikesh_1185076365_biz_api1.msn.com
+API Password: 	  	1185076372
+Signature: 	  		Acy-EqxEW7vvOrVBAzMumYoMmUbUAnC3L-gxMljoUtELUcn.i5a3o0pr

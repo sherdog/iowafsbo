@@ -1,0 +1,174 @@
+[15-Oct-2007 22:31:55] PHP Warning:  main(/home/dirtondi/public_html/manage/database.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/interact/public_html/brgolds/manage/master.inc.php on line 30
+[15-Oct-2007 22:31:55] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/dirtondi/public_html/manage/database.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/interact/public_html/brgolds/manage/master.inc.php on line 30
+[15-Oct-2007 22:32:36] PHP Warning:  main(/home/dirtondi/public_html/manage/database.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/interact/public_html/brgolds/manage/master.inc.php on line 30
+[15-Oct-2007 22:32:36] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/dirtondi/public_html/manage/database.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/interact/public_html/brgolds/manage/master.inc.php on line 30
+[15-Oct-2007 22:36:27] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/interact/public_html/brgolds/manage/master.inc.php:15) in /home/interact/public_html/brgolds/manage/master.inc.php on line 34
+[15-Oct-2007 22:38:18] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/interact/public_html/brgolds/manage/master.inc.php:15) in /home/interact/public_html/brgolds/manage/master.inc.php on line 34
+[15-Oct-2007 22:38:46] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 109
+[15-Oct-2007 22:38:46] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 119
+[15-Oct-2007 22:38:46] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 123
+[15-Oct-2007 22:38:46] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 124
+[15-Oct-2007 22:38:46] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 137
+[15-Oct-2007 22:38:46] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 142
+[15-Oct-2007 22:38:46] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 143
+[15-Oct-2007 22:38:46] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 156
+[15-Oct-2007 22:38:46] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 160
+[15-Oct-2007 22:38:46] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 161
+[15-Oct-2007 22:39:30] PHP Warning:  main(header.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/interact/public_html/brgolds/manage/index.php on line 9
+[15-Oct-2007 22:39:30] PHP Warning:  main(header.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/interact/public_html/brgolds/manage/index.php on line 9
+[15-Oct-2007 22:39:30] PHP Warning:  main() [<a href='function.include'>function.include</a>]: Failed opening 'header.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/interact/public_html/brgolds/manage/index.php on line 9
+[15-Oct-2007 22:39:44] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 109
+[15-Oct-2007 22:39:44] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 119
+[15-Oct-2007 22:39:44] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 123
+[15-Oct-2007 22:39:44] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 124
+[15-Oct-2007 22:39:44] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 137
+[15-Oct-2007 22:39:44] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 142
+[15-Oct-2007 22:39:44] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 143
+[15-Oct-2007 22:39:44] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 156
+[15-Oct-2007 22:39:44] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 160
+[15-Oct-2007 22:39:44] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 161
+[15-Oct-2007 22:39:56] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 109
+[15-Oct-2007 22:39:56] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 119
+[15-Oct-2007 22:39:56] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 123
+[15-Oct-2007 22:39:56] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 124
+[15-Oct-2007 22:39:56] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 137
+[15-Oct-2007 22:39:56] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 142
+[15-Oct-2007 22:39:56] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 143
+[15-Oct-2007 22:39:56] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 156
+[15-Oct-2007 22:39:56] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 160
+[15-Oct-2007 22:39:56] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 161
+[15-Oct-2007 22:40:01] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 109
+[15-Oct-2007 22:40:01] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 119
+[15-Oct-2007 22:40:01] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 123
+[15-Oct-2007 22:40:01] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 124
+[15-Oct-2007 22:40:01] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 137
+[15-Oct-2007 22:40:01] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 142
+[15-Oct-2007 22:40:01] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 143
+[15-Oct-2007 22:40:01] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 156
+[15-Oct-2007 22:40:01] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 160
+[15-Oct-2007 22:40:01] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 161
+[15-Oct-2007 22:40:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/interact/public_html/brgolds/manage/user.php:187) in /home/interact/public_html/brgolds/manage/functions.inc.php on line 314
+[15-Oct-2007 22:43:06] PHP Warning:  main(header.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/interact/public_html/brgolds/manage/index.php on line 9
+[15-Oct-2007 22:43:06] PHP Warning:  main(header.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/interact/public_html/brgolds/manage/index.php on line 9
+[15-Oct-2007 22:43:06] PHP Warning:  main() [<a href='function.include'>function.include</a>]: Failed opening 'header.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/interact/public_html/brgolds/manage/index.php on line 9
+[15-Oct-2007 22:44:14] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 109
+[15-Oct-2007 22:44:14] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 119
+[15-Oct-2007 22:44:14] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 123
+[15-Oct-2007 22:44:14] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 124
+[15-Oct-2007 22:44:14] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 137
+[15-Oct-2007 22:44:14] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 142
+[15-Oct-2007 22:44:14] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 143
+[15-Oct-2007 22:44:14] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 156
+[15-Oct-2007 22:44:14] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 160
+[15-Oct-2007 22:44:14] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 161
+[15-Oct-2007 22:44:19] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 109
+[15-Oct-2007 22:44:19] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 119
+[15-Oct-2007 22:44:19] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 123
+[15-Oct-2007 22:44:19] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 124
+[15-Oct-2007 22:44:19] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 137
+[15-Oct-2007 22:44:19] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 142
+[15-Oct-2007 22:44:19] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 143
+[15-Oct-2007 22:44:19] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 156
+[15-Oct-2007 22:44:19] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 160
+[15-Oct-2007 22:44:19] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 161
+[15-Oct-2007 22:51:27] PHP Warning:  main(header.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/interact/public_html/brgolds/manage/user.php on line 254
+[15-Oct-2007 22:51:27] PHP Warning:  main(header.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/interact/public_html/brgolds/manage/user.php on line 254
+[15-Oct-2007 22:51:27] PHP Warning:  main() [<a href='function.include'>function.include</a>]: Failed opening 'header.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/interact/public_html/brgolds/manage/user.php on line 254
+[15-Oct-2007 23:06:17] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 109
+[15-Oct-2007 23:06:17] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 119
+[15-Oct-2007 23:06:17] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 123
+[15-Oct-2007 23:06:17] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 124
+[15-Oct-2007 23:06:17] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 137
+[15-Oct-2007 23:06:17] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 142
+[15-Oct-2007 23:06:17] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 143
+[15-Oct-2007 23:06:17] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 156
+[15-Oct-2007 23:06:17] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 160
+[15-Oct-2007 23:06:17] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 161
+[15-Oct-2007 23:06:21] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 109
+[15-Oct-2007 23:06:21] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 119
+[15-Oct-2007 23:06:21] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 123
+[15-Oct-2007 23:06:21] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 124
+[15-Oct-2007 23:06:21] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 137
+[15-Oct-2007 23:06:21] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 142
+[15-Oct-2007 23:06:21] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 143
+[15-Oct-2007 23:06:21] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 156
+[15-Oct-2007 23:06:21] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 160
+[15-Oct-2007 23:06:21] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 161
+[15-Oct-2007 23:07:46] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 109
+[15-Oct-2007 23:07:46] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 119
+[15-Oct-2007 23:07:46] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 123
+[15-Oct-2007 23:07:46] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 124
+[15-Oct-2007 23:07:46] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 137
+[15-Oct-2007 23:07:46] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 142
+[15-Oct-2007 23:07:46] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 143
+[15-Oct-2007 23:07:46] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 156
+[15-Oct-2007 23:07:46] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 160
+[15-Oct-2007 23:07:46] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 161
+[15-Oct-2007 23:08:07] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 109
+[15-Oct-2007 23:08:07] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 119
+[15-Oct-2007 23:08:07] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 123
+[15-Oct-2007 23:08:07] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 124
+[15-Oct-2007 23:08:07] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 137
+[15-Oct-2007 23:08:07] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 142
+[15-Oct-2007 23:08:07] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 143
+[15-Oct-2007 23:08:07] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 156
+[15-Oct-2007 23:08:07] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 160
+[15-Oct-2007 23:08:07] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 161
+[15-Oct-2007 23:08:14] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 109
+[15-Oct-2007 23:08:14] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 119
+[15-Oct-2007 23:08:14] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 123
+[15-Oct-2007 23:08:14] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 124
+[15-Oct-2007 23:08:14] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 137
+[15-Oct-2007 23:08:14] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 142
+[15-Oct-2007 23:08:14] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 143
+[15-Oct-2007 23:08:14] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 156
+[15-Oct-2007 23:08:14] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 160
+[15-Oct-2007 23:08:14] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 161
+[15-Oct-2007 23:08:22] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 109
+[15-Oct-2007 23:08:22] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 119
+[15-Oct-2007 23:08:22] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 123
+[15-Oct-2007 23:08:22] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 124
+[15-Oct-2007 23:08:22] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 137
+[15-Oct-2007 23:08:22] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 142
+[15-Oct-2007 23:08:22] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 143
+[15-Oct-2007 23:08:22] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 156
+[15-Oct-2007 23:08:22] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 160
+[15-Oct-2007 23:08:22] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 161
+[15-Oct-2007 23:09:44] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 217
+[15-Oct-2007 23:09:44] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 237
+[15-Oct-2007 23:09:44] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 245
+[15-Oct-2007 23:09:44] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 247
+[15-Oct-2007 23:09:44] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 273
+[15-Oct-2007 23:09:44] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 283
+[15-Oct-2007 23:09:44] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 285
+[15-Oct-2007 23:09:44] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 311
+[15-Oct-2007 23:09:44] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/interact/public_html/brgolds/manage/schedules.php on line 319
+[15-Oct-2007 23:09:44] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 321
+[15-Oct-2007 23:11:38] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 217
+[15-Oct-2007 23:12:46] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/schedules.php on line 217
+[15-Oct-2007 23:15:15] PHP Parse error:  syntax error, unexpected T_ELSE in /home/interact/public_html/brgolds/manage/schedules.php on line 243
+[15-Oct-2007 23:22:54] PHP Warning:  main(header.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/interact/public_html/brgolds/manage/editPage.php on line 147
+[15-Oct-2007 23:22:54] PHP Warning:  main(header.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/interact/public_html/brgolds/manage/editPage.php on line 147
+[15-Oct-2007 23:22:54] PHP Warning:  main() [<a href='function.include'>function.include</a>]: Failed opening 'header.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/interact/public_html/brgolds/manage/editPage.php on line 147
+[15-Oct-2007 23:26:33] PHP Parse error:  syntax error, unexpected '}' in /home/interact/public_html/brgolds/manage/schedules.php on line 291
+[22-Oct-2007 23:05:33] PHP Parse error:  syntax error, unexpected $end in /home/interact/public_html/brgolds/manage/listings.php on line 246
+[22-Oct-2007 23:06:11] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/listings.php on line 138
+[22-Oct-2007 23:06:11] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/interact/public_html/brgolds/manage/listings.php on line 151
+[22-Oct-2007 23:06:30] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/listings.php on line 138
+[22-Oct-2007 23:06:30] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/interact/public_html/brgolds/manage/listings.php on line 151
+[22-Oct-2007 23:06:53] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/listings.php on line 138
+[22-Oct-2007 23:06:53] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/interact/public_html/brgolds/manage/listings.php on line 151
+[22-Oct-2007 23:08:33] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/interact/public_html/brgolds/manage/listings.php on line 158
+[22-Oct-2007 23:10:04] PHP Parse error:  syntax error, unexpected T_ELSE, expecting ',' or ';' in /home/interact/public_html/brgolds/manage/listings.php on line 132
+[22-Oct-2007 23:14:37] PHP Parse error:  syntax error, unexpected ')' in /home/interact/public_html/brgolds/manage/listings.php on line 143
+[22-Oct-2007 23:38:59] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/interact/public_html/brgolds/manage/listings.php on line 141
+[22-Oct-2007 23:40:26] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/interact/public_html/brgolds/manage/listings.php on line 141
+[22-Oct-2007 23:41:52] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/interact/public_html/brgolds/manage/listings.php on line 141
+[23-Oct-2007 16:36:56] PHP Parse error:  syntax error, unexpected '{' in /home/interact/public_html/brgolds/manage/siteFunctions.inc.php on line 14
+[23-Oct-2007 16:37:50] PHP Fatal error:  Call to undefined function:  getfieldslisting() in /home/interact/public_html/brgolds/manage/listings.php on line 164
+[23-Oct-2007 16:42:45] PHP Warning:  Invalid argument supplied for foreach() in /home/interact/public_html/brgolds/manage/listings.php on line 168
+[23-Oct-2007 17:12:54] PHP Parse error:  syntax error, unexpected '{' in /home/interact/public_html/brgolds/manage/listings.php on line 162
+[23-Oct-2007 17:24:34] PHP Fatal error:  Call to undefined function:  getcategoryname() in /home/interact/public_html/brgolds/manage/content.php on line 109
+[23-Oct-2007 20:46:33] PHP Fatal error:  Call to undefined function:  getcategoryname() in /home/interact/public_html/brgolds/manage/content.php on line 109
+[23-Oct-2007 20:46:33] PHP Fatal error:  Call to undefined function:  getcategoryname() in /home/interact/public_html/brgolds/manage/content.php on line 109
+[23-Oct-2007 20:48:48] PHP Fatal error:  Call to undefined function:  getcategoryname() in /home/interact/public_html/brgolds/manage/content.php on line 109

@@ -1,0 +1,5 @@
+﻿<flash_project name="SWFUpload" version="1">
+    <project_file path="./SWFUpload.js" filetype="js" />
+    <project_file path="./com/mammon/swfupload/Delegate.as" filetype="as" />
+    <project_file path="./com/mammon/swfupload/SWFUpload.as" filetype="as" />
+</flash_project>

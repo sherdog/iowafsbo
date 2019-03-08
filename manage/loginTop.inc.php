@@ -1,0 +1,1 @@
+<div style="width:100%; padding:3px; background:red; font-size:10px; height:20px; margin-bottom:5px;">Login area</div>

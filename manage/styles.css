@@ -1,0 +1,223 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	margin: 0px;
+	padding:0px;
+}
+body {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:black;
+}
+div#wrapper {
+	margin: 0px;
+	width: 100%;
+}
+DIV#masshead {
+	background-color:#222222;
+	height:57px;
+}
+DIV#massheadshadow {
+	background-image:url(images/headerDropShadow.jpg);
+	background-repeat:repeat-x;
+	background-color:white;
+}
+DIV#loginbox {
+	background-color:#F5F5F5;
+	color:#333333;
+	padding:10px;
+	border:1px solid #CCCCCC;
+	width:350px;
+	height:160px;
+	margin: 50px auto auto 20px;
+}
+input.formbutton {
+	background: #b8b8b8;
+	color:#333333;
+	border:1px solid #333333;
+	font-weight:bold;
+	font-size:11px;
+}
+input#formfield {
+	margin:4px;
+	background-image:url(images/textfield-background.gif);
+	background-repeat:no-repeat;
+	font-size:11px;
+	color:#333;
+	border:0;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight:normal;
+	padding:.2em;
+}
+
+h2 {
+	font-size:18px;
+	color:#333333;
+	border-bottom:1px solid #333333;
+	margin-bottom: 10px;
+}
+.text10 { font-size:10px; font-family:Verdana, Arial, Helvetica, sans-serif; color:#333; }
+DIV#content {
+	padding:1%;
+	width:80%;
+}
+
+.subtext { font-size:9px; font-family:Verdana, Arial, Helvetica, sans-serif; color:#333; }
+
+.tableHeader, th { padding:5px; text-align:left; background:#e5e5e5; color:black; font-size:12px; font-family:Verdana, Arial, Helvetica, sans-serif; font-weight:bold; }
+
+a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#0066FF;
+	text-decoration:none;
+}
+
+a:visited {
+	text-decoration: underline;
+	color:#0066FF;
+}
+a:hover {
+	text-decoration: none;
+	color: #990000;
+}
+a:active {
+	text-decoration: underline;
+	color:#0066FF;
+}
+
+table.name { padding:5px; }
+
+#form { width:650px; }
+#formButtons { border-top:1px solid #666; padding:10px; width:650px; }
+
+.formLabelText{
+	color:#333333;
+	margin-left:4px;
+	width:240px;
+	background-color:#EFEFEF;
+	padding-right:5px;
+	font-size:11px; font-weight:bold;
+}
+.formButtons {  }
+
+#subButtons { background:#F5F5F5; border-top:1px solid #CCC; margin-top:10px; padding-top:5px }
+
+.form tr {
+	vertical-align: top;
+}
+.fieldLabel {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#333333;
+	width:200px;
+	background-color:#EFEFEF;
+	padding:5px;
+}
+
+.records label, .form label { padding:3px; }
+
+.highlighted { background:#FEFFCC; border:1px solid #FFCC00; }
+.errorBox { background:#FFC1C2; url(images/notice.gif) no-repeat scroll 1em 50%; margin:10px; padding:20px 1em 20px 3em; border:1px solid #CC0000; }
+.alertBox { background:#FFFFCF url(images/notice.gif) no-repeat scroll 1em 50%; margin:10px; padding:20px 1em 20px 3em; border:1px solid yellow;  }
+.cancelButton { background:#990000; color:white; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; font-weight:bold; padding:3px; border:0; }
+.records { width:100%; margin:10px 10px 10px 0px; }
+
+input.button, .submitButton, .cpButton, .button { background:#787878; color:white; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; border:1px solid #333;}
+
+
+
+.swfuploadbtn {
+	display: block;
+	width: 100px;
+	padding: 0 0 0 20px;
+}
+		
+.browsebtn { background: url(images/add.png) no-repeat 0 4px; }
+.uploadbtn { 
+	display: none;
+	background: url(images/accept.png) no-repeat 0 4px; 
+}
+		
+.cancelbtn { 
+	display: block;
+	width: 16px;
+	height: 16px;
+	float: right;
+	background: url(images/cancel.png) no-repeat;
+	margin-top:-3px;
+}
+		
+#cancelqueuebtn {
+	display: block;
+	display: none;
+	background: url(images/cancel.png) no-repeat 0 4px;
+	margin: 10px 0;
+}
+
+#SWFUploadFileListingFiles ul {
+	margin: 0;
+	padding: 0;
+	list-style:none;
+}
+
+.SWFUploadFileItem {
+
+	display: block;
+	width: 800px; 
+	/*height: 50px;
+	 float: left;*/
+	background: #FFF;
+	margin: 0 5px 0px 0;
+	padding: 5px;
+
+}
+
+.fileUploading { background:#FCFAC9; }
+.uploadCompleted { background:#BCFDA6; }
+.uploadCancelled { background: #f77c7c; }
+
+.uploadCompleted .uploadCancelled .cancelbtn {
+	display: none;
+}
+
+#fileContainer { width: 1000px; height:300px; overflow:auto; }
+.clr { clear:both; }
+.fileListTitle {  font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; color:#333; float:left; padding:5px;  }
+.fileListProgressBar {  float:left; padding:5px; color:white;  }
+.fileListCancelButton {  float:right; padding:5px;  width:100px; }
+
+
+span.progressBar {
+	width: 200px;
+	display: block;
+	font-size: 10px;
+	height: 4px;
+	margin-top: -1px;
+	margin-bottom: 10px;
+	background-color: #CCC;
+}
+
+table.records a {color: black;text-decoration: none;cursor: default}
+table.records a:hover {color: black;text-decoration: none;cursor: default}
+table.records a.edit {color: blue;text-decoration: underline;cursor:pointer}
+tr.bar td {background-color: #ffffff;border-top: 2px solid #888888; margin-top:15px; padding-top:5px; }
+.subactive {background-color: white;color: black}
+#uploading { width:100%; height:100px; border:0px; }
+
+.hidden {
+	display: none;
+}
+td.featuredvideo{
+	border: 4px solid #990000;
+	
+}
+
+.listingColHeader { background-color:#CCC; border-top:1px solid #999; color:#333; font-size:11px; font-weight:bold; padding:0px 0px 0px 5px; text-align:left; }
+table.listings td { padding:3px; }
+.listingColHeaderSub { background-color:#F5F5F5; }
+
+.row0 { background:#FFF; }
+.row1 { background:#F5F5F5; }
